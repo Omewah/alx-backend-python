@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """A script that returns a mixed list as the sum of floats"""
 
 from typing import List, Union

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """A script that returns tuples of lists arguments"""
 
 from typing import List, Tuple

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """A script that returns tuples from strings/floats"""
 
 from typing import Union, Tuple
